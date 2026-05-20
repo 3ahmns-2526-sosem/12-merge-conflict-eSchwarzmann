@@ -13,3 +13,4 @@ Assets/MyGame/Screenshots/screenshot.png
 und in der README eingebunden sein:
 
 ![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
+MAX is cool
