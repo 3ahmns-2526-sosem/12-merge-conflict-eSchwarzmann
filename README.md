@@ -1,7 +1,8 @@
 # Projekttitel
 
 ## Kurzbeschreibung
-Dieses Projekt wurde lokal bearbeitet.
+Dieses Projekt wurde lokal und online bearbeitet.
+Der Merge Conflict wurde gelöst.
 
 ## Zielplattform
 
