@@ -3,7 +3,7 @@
 ## Kurzbeschreibung
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
-README lokal und online so ändern, dass ein Merge Conflict entsteht.
+
 ## Zielplattform
 
 ## Screenshot
