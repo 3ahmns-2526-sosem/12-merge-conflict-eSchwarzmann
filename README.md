@@ -3,18 +3,7 @@
 ## Kurzbeschreibung
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
-<<<<<<< HEAD
-<<<<<<< HEAD
-Habe es wieder Lokal verändert
-=======
-Wieder Online geändert
->>>>>>> 859d6790c25488b9e0450f093bff280e244df4da
-=======
-
-Habe es wieder Lokal verändert und auch Online
-
->>>>>>> bf1b9f50c24e3fe74fe6311c7ab59909968f1021
-
+README lokal und online so ändern, dass ein Merge Conflict entsteht.
 ## Zielplattform
 
 ## Screenshot
