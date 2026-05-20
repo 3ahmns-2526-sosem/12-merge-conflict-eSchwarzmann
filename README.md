@@ -3,7 +3,7 @@
 ## Kurzbeschreibung
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
-
+Konflikt Lokal
 ## Zielplattform
 
 ## Screenshot
